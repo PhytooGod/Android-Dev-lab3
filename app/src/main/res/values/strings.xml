@@ -17,4 +17,6 @@
     <string name="Divide">/</string>
     <string name="Multiply">*</string>
     <string name="result">0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
